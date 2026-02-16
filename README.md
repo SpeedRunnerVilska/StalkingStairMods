@@ -1,7 +1,7 @@
 # StalkingStairMods
 
 <p align="center">
-  <img src="[https://cdn.discordapp.com/attachments/1405258698472816860/1473073402842448023/image_2.png](https://cdn.discordapp.com/attachments/1428022810932154368/1473073973569912863/image_2.png?ex=6994e28b&is=6993910b&hm=ee59913f727b9ebc9321c4596f469a33b08e891629ee4ffa2f4bd8970ade7622&)" width="700"/>
+  <img src="https://media.discordapp.net/attachments/1428022810932154368/1473073973569912863/image_2.png" width="700"/>
 </p>
 
 > The official verified mod collection for **The Stalking Stairs**  
@@ -72,7 +72,7 @@ Quality and stability are prioritized.
 
 ---
 
-## 🚀 Purpose
+## Purpose
 
 The goal of this repository is to maintain a clean, stable, and unified mod ecosystem for *The Stalking Stairs*.
 
@@ -85,4 +85,3 @@ By centralizing verified mods, we ensure:
 
 ---
 
-**Climb smarter. Mod better.**
