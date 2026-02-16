@@ -1,7 +1,7 @@
 # StalkingStairMods
 
 <p align="center">
-  <img src="https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Manager/blob/main/logo.png" width="700"/>
+  <img src="https://github.com/SpeedRunnerVilska/Stalking-Stairs-Mod-Manager/blob/main/logo.png" width="1080"/>
 </p>
 
 > The official verified mod collection for **The Stalking Stairs**  
