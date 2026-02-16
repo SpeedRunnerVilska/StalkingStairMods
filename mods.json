@@ -1,1 +1,10 @@
-
+{
+   "mods" : [
+      {
+         "name" : "BepInEx",
+         "tag" : "",
+         "gitPath" : "BepInEx/BepInEx",
+         "releaseId" : 147192581,
+         "author" : "BepInEx Team",
+         "group" : "Core"
+      },
